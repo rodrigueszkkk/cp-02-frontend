@@ -61,6 +61,7 @@
     width: 300px;
     border: red 2px solid;
     border-radius: 20px;
+    padding: 20px;
 }
 
 footer{
@@ -71,4 +72,8 @@ footer{
 footer a{
     color: white;
     text-decoration: none;
+}
+
+.beneficios-container img{
+    width: 200px;
 }
