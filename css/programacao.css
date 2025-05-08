@@ -15,6 +15,9 @@ table {
   }
   
   .box img {
+    padding: 80px;
+    border-bottom-width: 7px;
+    border-radius: 25px;
     width: 250px;
     height: 200px;
   }
